@@ -1,1 +1,0 @@
-worker:  scriptbot.py
